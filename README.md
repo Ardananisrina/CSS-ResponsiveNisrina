@@ -3,6 +3,7 @@
 2.	Pertama kita harus mengatur viewport yang menjelaskan bahwa kita akan menyesuaikan tampilan layer web yang dituliskan dalam tag<meta> yang ada didalam tag<head>. Setelah itu menuliskan “content=”width:device-width(digunakan sebagai penjelas bahwa yang akan diatur adalah berdasarkan ukuran layar device), initial-scale: 1.0(menunjukkan bahwa skala untuk tampilan web pada layer device adalah 1.0 yang apabila dijalankan akan menjadi 1.1)” ”. Kemudian agar tampak lebih responsive, maka width yang digunakan harus dalam bentuk persen(%) dan height harus auto. 
 3.	Initial-scale: 1.0 menunjukkan bahwa skala untuk tampilan web pada layar  adalah 1.0.
 4.	Viewport, dan width and height
+  
 #Screenshot Media Query
 ![alt](https://github.com/Ardananisrina/CSS-ResponsiveNisrina/blob/master/Media%20Query.png?raw=true)
 #Screenshot Media Query 2
